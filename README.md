@@ -1,2 +1,2 @@
-#kawsay
+#gulaka
 GitHub Pages
