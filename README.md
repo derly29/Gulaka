@@ -1,2 +1,2 @@
-#gulaka
+#Gulaka
 GitHub Pages
