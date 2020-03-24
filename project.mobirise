@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kawsay",
-    "currentPage": "kawsay.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,10 +40,10 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "kawsay.html": {
+    "home.html": {
       "settings": {
         "main": true,
-        "title": "kawsay",
+        "title": "Gulaka",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
